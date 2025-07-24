@@ -1,4 +1,4 @@
---SQL פרויקט סיום
+--SQL Final Project
 -------------------
 
 CREATE DATABASE LibraryDB
